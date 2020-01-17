@@ -7607,7 +7607,7 @@ User,Użytkownik,module,Magento_Paypal
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
 "Not you?","To nie Ty?",module,Magento_Persistent
-"Your shopping cart has been updated with new prices.","Twój koszyk został wzbogacony o nowe ceny.",module,Magento_Persistent
+"Your shopping cart has been updated with new prices.","Ceny w Twoim koszyku zostały zaktualizowane.",module,Magento_Persistent
 "Welcome, %1!","Witaj, %1!",module,Magento_Persistent
 "We cannot load the configuration from file %1.","Nie można załadować konfiguracji z pliku %1.",module,Magento_Persistent
 "Method ""%1"" is not defined in ""%2""","Nie zdefiniowano metody ""%1"" w ""%2""",module,Magento_Persistent
@@ -9546,7 +9546,7 @@ Search,Szukaj,module,Magento_Sales
 "Billing Info","Informacje rozliczeniowe",module,Magento_Sales
 "Shipping Info","Informacje wysyłkowe",module,Magento_Sales
 "Update to your %store_name credit memo","Update to your %store_name credit memo",module,Magento_Sales
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Twoje zamówienie #%increment_id zostało wzbogacone o status <strong>%order_status</strong>.",module,Magento_Sales
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Status twojego zamówienia #%increment_id został zmieniony na <strong>%order_status</strong>.",module,Magento_Sales
 "Invoice for your %store_name order","Invoice for your %store_name order",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","Twoja #%invoice_id faktura dla zamówienia #%order_id",module,Magento_Sales
 "Update to your %store_name invoice","Update to your %store_name invoice",module,Magento_Sales
@@ -12692,7 +12692,7 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Payment Method","Metoda płatności",theme,frontend/Magento/luma
 "Shipping Method","Metoda dostawy",theme,frontend/Magento/luma
 "Update to your %store_name credit memo","Aktualizacja do faktury korygującej %store_name",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Twoje zamówienie #%increment_id zostało wzbogacone o status <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Status Twojego zamówienia #%increment_id został zmieniony na <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Invoice for your %store_name order","Faktura za zamówienie %store_name",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Twoja #%invoice_id faktura dla zamówienia #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","Aktualizacja do faktury %store_name",theme,frontend/Magento/luma
